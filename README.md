@@ -5,7 +5,8 @@
 - 📊 I like data science;
 - 👁️ I'm into computer vision;
 - 🧠 I'm fascinated by artificial intelligence;
-- 📫 How to reach me gangwolfmail@gmail.com
+- 📫 How to reach me [mail](mailto:gangwolfmail@gmail.com)
+
 
 ### 💻 Languages and Tools
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
