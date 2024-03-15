@@ -8,7 +8,7 @@
 - 🧠 I'm fascinated by artificial intelligence;
 - 📫 How to reach me [mail](mailto:gangwolfmail@gmail.com)
 
-## Features
+<!---## Features
 
 - 🌟 Electron
 - ⚛️ ReactJS
@@ -26,6 +26,8 @@
 - ⚡ Blazing Fast Hot Reload from ViteJS
 - 🤖 Native Node Modules Support
 - 👍🏼 Dedicated Vite Configurations
+
+--->
 
 
 
@@ -94,4 +96,5 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Figma" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
 
 --->
+
 
