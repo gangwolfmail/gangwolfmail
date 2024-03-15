@@ -1,6 +1,7 @@
 - ### 👋 Hi, I’m Yurii
 - 🎓 I graduated with a Master's degree in Computer Science and Digital Intelligence;
-- 👀 I’m interested in HTML/CSS JavaScript;
+- 👀 I’m interested in HTML;
+- 🎨 CSS / SASS / SCSS
 - 🌱 I’m currently learning JavaScript;
 - 🤖 I'm interested in machine learning and deep learning;
 - 📊 I like data science;
