@@ -8,6 +8,27 @@
 - 🧠 I'm fascinated by artificial intelligence;
 - 📫 How to reach me [mail](mailto:gangwolfmail@gmail.com)
 
+## Features
+
+- 🌟 Electron
+- ⚛️ ReactJS
+- ⚡ ViteJS
+- 🌀 TypeScript or JavaScript
+- 🎨 CSS / SASS / SCSS
+- 📸 Images
+- 🆎 Fonts
+- 🧹 ESLint
+- 📦 Electron Forge
+- 🧩 Custom Aliases for imports
+- 🔥 React Fast Refresh
+- 🎁 Package Bundling (Distribution / Release)
+- 🔦 Easy Directory Structure
+- ⚡ Blazing Fast Hot Reload from ViteJS
+- 🤖 Native Node Modules Support
+- 👍🏼 Dedicated Vite Configurations
+
+
+
 
 ### 💻 Languages and Tools
 <img align="left" alt="HTML5" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
