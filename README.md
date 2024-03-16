@@ -19,7 +19,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 --->
 
  ### <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I’m Yurii</h1>
-**I'm a Computer Science enthusiast with a Master's degree, specializing in Digital Intelligence. I have a passion for crafting engaging web experiences and am currently deepening my knowledge in JavaScript;
+**I'm a Computer Science enthusiast with a Master's degree, specializing in Digital Intelligence. I have a passion for crafting engaging web experiences and am currently deepening my knowledge in JavaScript;**
 ### Here's a snapshot of my journey and interests:
 - 🎓 Master's in Computer Science with a focus on Digital Intelligence, equipping me with a strong foundation in software development and data analysis;
 - 👀 Proficient in HTML, 🎨 CSS, SASS, and SCSS, with a keen eye for designing responsive and aesthetically pleasing web interfaces;
