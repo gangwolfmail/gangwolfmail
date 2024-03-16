@@ -12,6 +12,7 @@
 <p align="center"><img src="[[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1ibGNicXFmb3lyOWNic3V2OHRkcTQwNzloYjF6cW16cmhodWRweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBnIvqqpKFbZam9Wmj/giphy.gif)](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1ibGNicXFmb3lyOWNic3V2OHRkcTQwNzloYjF6cW16cmhodWRweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBnIvqqpKFbZam9Wmj/giphy.gif)" width="600" height="300"  /></p>
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1> 
 👋 
+- 🎨 CSS / SASS / SCSS
 ### :woman_technologist: &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
@@ -22,7 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 ### Here's a snapshot of my journey and interests:
 - 🎓 Master's in Computer Science with a focus on Digital Intelligence, equipping me with a strong foundation in software development and data analysis;
 - 👀 Proficient in HTML, 🎨 CSS, SASS, and SCSS, with a keen eye for designing responsive and aesthetically pleasing web interfaces;
-- 🎨 CSS / SASS / SCSS
 - 💻 Actively learning JavaScript to enhance my web development skills and contribute to innovative projects;
 - 🤖 Fascinated by the potential of AI, machine learning, and deep learning in transforming industries and solving complex problems;
 - 📊 Passionate about the intersection of data science and decision-making. I thrive on transforming complex datasets into clear, actionable insights that drive strategic outcomes;
