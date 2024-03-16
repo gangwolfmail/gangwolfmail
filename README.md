@@ -9,10 +9,10 @@
 
 <h1 align="center">hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
+<p align="center"><img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1ibGNicXFmb3lyOWNic3V2OHRkcTQwNzloYjF6cW16cmhodWRweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBnIvqqpKFbZam9Wmj/giphy.gif)" width="600" height="300"  /></p>
 
 ### :woman_technologist: &nbsp;About Me :
-https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeW1ibGNicXFmb3lyOWNic3V2OHRkcTQwNzloYjF6cW16cmhodWRweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OBnIvqqpKFbZam9Wmj/giphy.gif
+
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 - ### 👋 Hi, I’m Yurii
