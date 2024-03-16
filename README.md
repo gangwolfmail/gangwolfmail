@@ -18,16 +18,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 --->
 
  ### <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> Hi, I’m Yurii</h1>
-🎓 I'm a Computer Science enthusiast with a Master's degree, specializing in Digital Intelligence. I have a passion for crafting engaging web experiences and am currently deepening my knowledge in JavaScript;
+ I'm a Computer Science enthusiast with a Master's degree, specializing in Digital Intelligence. I have a passion for crafting engaging web experiences and am currently deepening my knowledge in JavaScript;
 ### Here's a snapshot of my journey and interests:
-- 📚 Educational Background: Master's in Computer Science with a focus on Digital Intelligence, equipping me with a strong foundation in software development and data analysis;
-- 👀 I’m interested in HTML;
+- 🎓 Master's in Computer Science with a focus on Digital Intelligence, equipping me with a strong foundation in software development and data analysis;
+- 👀 Proficient in HTML, 🎨 CSS, SASS, and SCSS, with a keen eye for designing responsive and aesthetically pleasing web interfaces;
 - 🎨 CSS / SASS / SCSS
-- 🌱 I’m currently learning JavaScript;
-- 🤖 I'm interested in machine learning and deep learning;
-- 📊 I like data science;
-- 👁️ I'm into computer vision;
-- 🧠 I'm fascinated by artificial intelligence;
+- 💻 Actively learning JavaScript to enhance my web development skills and contribute to innovative projects;
+- 🤖 Fascinated by the potential of AI, machine learning, and deep learning in transforming industries and solving complex problems;
+- 📊 Passionate about the intersection of data science and decision-making. I thrive on transforming complex datasets into clear, actionable insights that drive strategic outcomes;
+- 👁️ Intrigued by the capabilities of computer vision in interpreting and understanding visual data;
+- 🧠 Dedicated to exploring the advancements in AI and its applications across various sectors;
 - 📫 How to reach me [mail](mailto:gangwolfmail@gmail.com)
 
 <!---## Features
